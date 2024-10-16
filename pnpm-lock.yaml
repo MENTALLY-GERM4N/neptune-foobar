@@ -64,7 +64,7 @@ importers:
         specifier: ^5.5.4
         version: 5.5.4
 
-  plugins/DiscordRPC:
+  plugins/Foobar2K:
     dependencies:
       '@inrixia/lib':
         specifier: workspace:*

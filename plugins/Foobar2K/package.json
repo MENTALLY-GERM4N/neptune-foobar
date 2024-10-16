@@ -1,6 +1,6 @@
 {
-	"displayName": "Discord RPC",
-	"description": "Shows what song you're currently listening to on Discord.",
+	"displayName": "Foobar2K",
+	"description": "Transfers songs to Foobar2000.",
 	"author": "Inrixia",
 	"main": "./src/index.js",
 	"dependencies": {
